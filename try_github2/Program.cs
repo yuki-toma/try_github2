@@ -9,6 +9,8 @@ namespace try_github2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello GitHub!");
         }
     }
 }
